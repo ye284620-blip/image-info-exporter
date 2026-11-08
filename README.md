@@ -12,3 +12,6 @@
 ## 安装依赖
 ```bash
 pip install pillow
+## 运行效果
+![脚本运行成功截图](screenshots/run_success.png)
+![CSV导出结果截图](screenshots/csv_result.png)
